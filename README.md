@@ -1,9 +1,7 @@
 # AEM-KD
+This repository contains the official PyTorch implementation of **AEM-KD**: Adversarial Entropy Minimization for Cross-Modality Knowledge Distillation in SAR Building Segmentation.
 
-This repository contains the official PyTorch implementation of **AEM-KD**:
-
-**Adversarial Entropy Minimization for Cross-Modality Knowledge Distillation in SAR Building Segmentation**,  
-published in *IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing*.
+The full source code and pre-trained models will be released upon the formal acceptance of the corresponding paper.
 
 ---
 
